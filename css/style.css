@@ -1,0 +1,6 @@
+/*git checkout branchname <creates a new branch>,
+git checkout -b branchname <creates a new branch and moves to it>
+git status <shows you the branch and if things need to be committed> 
+git add . <stage all changes>
+git push <pushes the changes>
+*/
