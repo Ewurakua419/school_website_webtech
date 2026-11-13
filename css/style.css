@@ -3,4 +3,10 @@ git checkout -b branchname <creates a new branch and moves to it>
 git status <shows you the branch and if things need to be committed> 
 git add . <stage all changes>
 git push <pushes the changes>
-*/
+
+when you put an ! in html ot gives the full format
+
+merge conflict- one file two diferent contents
+use the githup app or webpage itself to compare and choose what to change or keep
+
+rebase - select which version overides the other*/
